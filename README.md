@@ -2,11 +2,11 @@
 
 This is the class repo for the ECON 611 class, fall 2019.
 
-# Administrivia
+### Administrivia
 
 **INSTRUCTOR.** [Mario Carrillo](https://www.usfca.edu/faculty/mario-carrillo). I’m an adjunct professor in the Applied Economics MS program.  Please call me Javi or Professor (the use of “Mario” is a capital offense).
 
-**TA.** Lilla Szini can be reached at (lkszini@dons.usfca.edu). Or, see her on slack.
+**TA.** Lilla Szini can be reached at lkszini@dons.usfca.edu. Or, see her on slack.
 
 **SPATIAL COORDINATES:**<br>
 * Class is held at Lo Schiavo 103 (LS 103) every Monday from 6:30 PM - 9:15 PM.
