@@ -5,7 +5,7 @@
 **INSTRUCTOR** 
 * [Mario Carrillo](https://www.usfca.edu/faculty/mario-carrillo). I’m an adjunct professor in the Applied Economics MS program.  Please call me Javi or Professor (the use of “Mario” is a capital offense). 
 
-**TA** 
+**TAs** 
 * Lilla Szini can be reached at lkszini@dons.usfca.edu. Or, see her on slack.
 * Stephen Embry can be reached at sbembry@dons.usfca.edu. Or, see her on slack.
 
