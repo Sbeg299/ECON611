@@ -7,6 +7,7 @@
 
 **TA** 
 * Lilla Szini can be reached at lkszini@dons.usfca.edu. Or, see her on slack.
+* Stephen Embry can be reached at sbembry@dons.usfca.edu. Or, see her on slack.
 
 **CLASSROOM SPATIAL COORDINATES**
 * Class is held at Lo Schiavo 103 (LS 103) every Monday from 6:30 PM - 9:15 PM.
